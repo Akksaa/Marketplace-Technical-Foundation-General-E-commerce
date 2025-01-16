@@ -15,13 +15,17 @@
 
 ![ArchitectureSystem](https://github.com/user-attachments/assets/0f5b0f3d-85e5-4b17-b8ae-b3f843d23b3a)
 
-### 2. API Specification Document:
+### 2. API Endpoints Document:
 
 [API_Endpoints_Day2.pdf](https://github.com/user-attachments/files/18445823/API_Endpoints_Day2.pdf)
 
 ### 3. Workflow Diagram:
 
 #### User Interaction Workflow:
+
+[Key_Workflows_Day2.pdf](https://github.com/user-attachments/files/18445898/Key_Workflows_Day2.pdf)
+
+
 
 1. User visits the marketplace and browses products.
 2. Adds products to the cart.
@@ -34,6 +38,12 @@
 #### Workflow Diagram
 
 ![key_workflows](https://github.com/user-attachments/assets/d48207f3-5fcc-4e22-b076-49ae08dae7af)
+
+### 3. Category Specific Instructions:
+
+[category_specific_instructions_Day2.pdf](https://github.com/user-attachments/files/18445902/category_specific_instructions_Day2.pdf)
+
+
 
 ## Next Steps
 
